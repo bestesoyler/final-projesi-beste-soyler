@@ -21,7 +21,7 @@ Yapay zekanın "neden dolandırıcılık" kararı verdiğini jüriye/kullanıcı
 ## 3. Web Arayüzü ve Canlı Senaryo Testleri
 Sistemi bir "kara kutu" olmaktan kurtarıp interaktif bir web uygulamasına dönüştürdük. Streamlit altyapısı ile oluşturulan bu arayüzde:
 * **Normal İşlem Senaryosu:** Tipik bir transfer işlemi sonucunda sistem, güvenlik onayını %99 güvenle vermektedir.
-* **Dolandırıcılık Senaryosu:** Hesabı sıfırlayan veya şüpheli yüksek tutarlı transferlerde, model arka plandaki örüntüleri tanıyarak **🚨 YÜKSEK RİSK** uyarısını anlık olarak tetiklemektedir.
+* **Dolandırıcılık Senaryosu:** Hesabı sıfırlayan veya şüpheli yüksek tutarlı transferlerde, model arka plandaki örüntüleri tanıyarak ** YÜKSEK RİSK** uyarısını anlık olarak tetiklemektedir.
 
 ## 4. Sonuç ve Gelecek Vizyonu
-Bu çalışma, makine öğrenmesi algoritmalarının finansal güvenlikte nasıl kritik bir rol oynayabileceğini kanıtlamaktadır. Gelecek aşamada, sistemin gerçek zamanlı (live-stream) veri akışlarıyla entegre edilmesi ve dolandırıcılık paternlerini öğrenen "sürekli öğrenen bir yapıya" (online learning) dönüştürülmesi hedeflenmektedir.
+Bu çalışma, makine öğrenmesi algoritmalarının finansal güvenlikte nasıl kritik bir rol oynayabileceğini kanıtlamaktadır. Gelecek aşamada, sistemin gerçek zamanlı (live-stream) veri akışlarıyla entegre edilmesi ve dolandırıcılık paternlerini öğrenen "sürekli öğrenen bir yapıya" dönüştürülmesi hedeflenmektedir.
