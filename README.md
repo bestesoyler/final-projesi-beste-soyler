@@ -1,5 +1,5 @@
 # Finansal Dolandırıcılık Tespit Sistemi
-Proje Sunum Videosu: [https://youtu.be/RaBB8q8hLBg](https://youtube.com/...)
+Proje Sunum Videosu: https://youtu.be/RaBB8q8hLBg
 
 # Finansal İşlemlerde Dolandırıcılık Tespiti (Fraud Detection)
 
