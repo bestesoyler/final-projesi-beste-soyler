@@ -1,4 +1,4 @@
-Projenin PDF formatındaki detaylı raporuna [buradan](https://github.com/bestesoyler/final-projesi-beste-soyler/blob/main/proje_raporu.pdf) ulaşabilirsiniz.
+Projenin PDF formatındaki detaylı raporuna [buradan](https://github.com/bestesoyler/final-projesi-beste-soyler/blob/main/Final_2544001020_Beste_Soyler.pdf) ulaşabilirsiniz.
 
 # Proje Raporu: Yapay Zeka Destekli Finansal Dolandırıcılık Tespit Sistemi
 
