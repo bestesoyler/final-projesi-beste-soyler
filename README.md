@@ -1,3 +1,6 @@
+# Finansal Dolandırıcılık Tespit Sistemi
+Proje Sunum Videosu: [https://youtu.be/RaBB8q8hLBg](https://youtube.com/...)
+
 # Finansal İşlemlerde Dolandırıcılık Tespiti (Fraud Detection)
 
 Bu proje, finansal işlemler (para transferleri, ödemeler vb.) üzerinden makine öğrenmesi algoritmaları kullanarak dolandırıcılık (fraud) faaliyetlerini tespit etmeyi amaçlamaktadır.
